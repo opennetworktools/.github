@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+UNQ Labs is a growing community who passionate about both hardware and software technologies.
+
 <!--
 
 **Here are some ideas to get you started:**
