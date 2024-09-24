@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-UNQ Labs is a growing community who passionate about both hardware and software technologies.
+Building tools for both intranet and internet! 🛜
 
 <!--
 
